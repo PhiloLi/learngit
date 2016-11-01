@@ -1,4 +1,4 @@
-package stateModel;
+﻿package stateModel;
 /**
  * 糖果状态机
  * 将有限状态机转换为代码
@@ -13,7 +13,9 @@ public class GumballMachine {
 	int state = NO_QUARTER;
 	int count = 0;
 	//当有25分钱投入时
-	public void insertQuarter(){}
+	public void insertQuarter(){
+          return null;
+        }
 	//退出25分钱
 	public void ejectQuarter(){}
 	//转动曲轴
