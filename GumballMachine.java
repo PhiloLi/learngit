@@ -18,7 +18,7 @@ public class GumballMachine {
         }
 	//退出25分钱
 	public void ejectQuarter(){
-        make a change 
+        make a change and quick; 
         return null;        
 }
 	//转动曲轴
