@@ -19,6 +19,7 @@ public class GumballMachine {
 	//退出25分钱
 	public void ejectQuarte() {
         dev branch change;
+	master branch change;
         make a change and quick; 
         return null;        
 }
